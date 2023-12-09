@@ -5,4 +5,7 @@ git init
 " branch =>pour voir tous les branch existant
 " chechout "your branch' pour switcher ver la branche que vous voulez
 " log
+<<<<<<< HEAD
 " branch -d brancheName "this will delete this branche"
+" branch -a :list of the remote and local branches
+
