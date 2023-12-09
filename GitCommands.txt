@@ -6,3 +6,4 @@ git init
 " chechout "your branch' pour switcher ver la branche que vous voulez
 " log
 " branch -d brancheName
+" branch -a :list of the remote and local branches
