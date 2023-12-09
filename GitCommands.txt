@@ -5,4 +5,4 @@ git init
 " branch =>pour voir tous les branch existant
 " chechout "your branch' pour switcher ver la branche que vous voulez
 " log
-" branch -d brancheName
+" branch -d brancheName "this will delete this branche"
