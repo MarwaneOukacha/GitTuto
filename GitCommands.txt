@@ -6,6 +6,10 @@ git init
 " chechout "your branch' pour switcher ver la branche que vous voulez
 " log
 <<<<<<< HEAD
+<<<<<<< HEAD
 " branch -d brancheName "this will delete this branche"
 " branch -a :list of the remote and local branches
 
+=======
+" branch -d :brancheName "this will delete this branche"
+>>>>>>> branche2
